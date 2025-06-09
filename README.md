@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Paulastya 👋
 
-<!--
-**Paulastya2007/Paulastya2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student with a love for coding and gaming. Whether it's building cross-platform apps or diving deep into game development, I enjoy tackling challenging projects and learning new tech along the way.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
+- **Languages:** Java, Python, Node.js
+- **Frameworks/Libraries:** Preact, React Native (via Expo)
+- **Other:** SDL2 (C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Favorite Projects
+- [Cursor Cricis](https://github.com/Paulastya2007/CursorCrisis) – A game made in C using SDL2.
+- [Tic Tac Toe Multiplatform](https://github.com/Paulastya2007/tic-tac-toe-multiplatform) – Play Tic Tac Toe across platforms!
+
+## 🎮 Hobbies
+- Gaming 🎮
+- Coding 💻
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/paulastya-chakraborty/)
+
+---
+
+> “Keep growing, keep coding!”
